@@ -52,7 +52,6 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/victor-de-lima-59a223233/)  
-[![Email](elderdelima533@gmail.com)
-[![Whatsapp]((88)992006439)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-de-lima-59a223233/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elderdelima533@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588992006439)
