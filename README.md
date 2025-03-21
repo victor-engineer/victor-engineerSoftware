@@ -7,7 +7,8 @@
 
 ## 📷 Portfolio Image
 
-![Meu Portfólio](images/victor_portfolio.png)
+[![Meu Portfólio](images/victor_portfolio.png)](https://victorlima.netlify.app)  
+[![Pessoa](https://img.shields.io/badge/Persona-Personal-blue?logo=persona)](https://victorlima.netlify.app)
 
 ---
 
