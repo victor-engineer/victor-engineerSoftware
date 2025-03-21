@@ -24,10 +24,14 @@
 - ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 
 ### **Other Skills**
-- **Unit Testing** (JUnit, Mockito)
-- API Integration
-- SQL & Database Design
-- Problem-Solving & Debugging
+- **Unit Testing**: Expertise in writing and executing tests with **JUnit** and **Mockito** to ensure code quality and reliability.
+- **API Integration**: Proficient in integrating with third-party APIs and designing RESTful services (e.g., **Google Books API**, **Payment APIs**, etc.).
+- **Database Design & SQL**: Strong experience in designing and optimizing relational databases using **PostgreSQL**, **MySQL**, and **SQL** queries.
+- **Problem-Solving**: Adept at analyzing and solving complex coding challenges with a methodical approach to debugging and troubleshooting.
+- **CI/CD**: Familiar with **Continuous Integration** and **Continuous Delivery** pipelines using tools like **Jenkins**, **GitLab CI**, and **Docker**.
+- **Version Control**: Advanced knowledge of **Git** for managing code repositories and collaborating in team environments.
+- **Agile Methodology**: Experience working in **Agile** development teams using **Scrum** and **Kanban** frameworks for iterative project delivery.
+- **Cloud Services**: Practical knowledge of cloud computing platforms like **AWS**, with an understanding of **serverless architectures** and **containerization**.
 
 ---
 
