@@ -13,6 +13,10 @@
 - ![Java](https://img.shields.io/badge/Java-17-blue)
 - ![SpringBoot](https://img.shields.io/badge/SpringBoot-6.0-brightgreen)
 - ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![HTML5](https://img.shields.io/badge/HTML5-orange)
+- ![CSS3](https://img.shields.io/badge/CSS3-blue)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.12-blue)
 
 ### **Databases**
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-lightblue)
@@ -22,6 +26,12 @@
 - ![Git](https://img.shields.io/badge/Git-black)
 - ![Docker](https://img.shields.io/badge/Docker-blue)
 - ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ### **Other Skills**
 - **Unit Testing**: Expertise in writing and executing tests with **JUnit** and **Mockito** to ensure code quality and reliability.
