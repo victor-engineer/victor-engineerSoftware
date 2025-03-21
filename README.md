@@ -5,6 +5,10 @@
 🌱 Currently learning more about **APIs integration**, **Docker**, and **advanced Spring Boot**.  
 🎯 My goal: Contribute to impactful projects and grow as a software developer.  
 
+## 📷 Portfolio Image
+
+![Meu Portfólio](images/victor_portfolio.png)
+
 ---
 
 ## 🚀 Skills
