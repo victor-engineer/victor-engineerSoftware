@@ -50,6 +50,22 @@
 
 ---
 
+## 🗣 Testimonials
+> *"Victor is an outstanding developer with a keen understanding of both back-end technologies and problem-solving skills. His contributions to our team were invaluable."*  
+— **Cristiano Rodrigues**, Senior Developer at [DOCK]
+
+> *"Victor is a pleasure to work with. His deep understanding of Spring Boot and APIs helped us build more efficient systems."*  
+— **Saulo De Lima**, Junior Developer at [Freelancers]
+
+---
+
+## 🌍 Languages
+- **Portuguese** - Native
+- **English** - Advanced
+- **Spanish** - basic
+  
+---
+
 ## 🌟 My Projects
 
 ### 📦 [E-commerce API](https://github.com/victor-engineer/ecommerce-backend)
@@ -72,7 +88,7 @@
 
 ## 📫 Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-de-lima-59a223233/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-de-lima-59a223233)
 - [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elderdelima533@gmail.com)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588992006439)
 
